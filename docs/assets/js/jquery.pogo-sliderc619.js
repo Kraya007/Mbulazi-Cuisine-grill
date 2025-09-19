@@ -115,7 +115,7 @@
         targetWidth: 1000,
         targetHeight: 300,
         responsive: false,
-        pauseOnHover: false
+        pauseOnHover: false,
     };
 
     function Plugin(element, options) {
